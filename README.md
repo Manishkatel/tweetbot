@@ -1,7 +1,5 @@
 # 📌 Twitter Bot with Tweepy
 
----
-
 A Twitter bot that listens for mentions with the hashtag #hello and replies with "All the best" while also liking and retweeting the tweet.
 
 ## 🚀 Overview
