@@ -58,4 +58,4 @@ python tweetbot.py
 ## 📜 License
 This project is licensed under the MIT License. 
 
-## Ease your tweeting with tweetbot
+**Ease your tweeting with tweetbot**
